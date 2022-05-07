@@ -90,7 +90,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Magic Match</h1>
+      <h1>Новая Супер Игра</h1>
       <p>{turns}</p>
       <button onClick={shuffleCards}>New Game</button>
 
